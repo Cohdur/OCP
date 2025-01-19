@@ -29,7 +29,7 @@ public class Weight_Conversion
     {
         converted_value = oz / 16.0;
         lbs = oz / 16;
-        ozSingularvalue = oz % 16; 
+        ozSingularValue = oz % 16; 
 
     }
     

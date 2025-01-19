@@ -42,7 +42,7 @@ public class Weight_Conversion
 
     /**
      * This will return the incremented sum of oz
-     * @return the ozIncrement value
+     * @return the ozSingularvalue value
      */
     public int get_Oz_value()
     {

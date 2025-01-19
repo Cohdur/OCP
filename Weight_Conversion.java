@@ -5,7 +5,7 @@ import java.util.Scanner;
  */
 public class Weight_Conversion
 {
-    private int oz, ozSingularvalue = 0 ,lbs = 0;
+    private int oz, ozSingularValue = 0 ,lbs = 0;
     private double converted_value; // this will be oz -> lbs conversion
 
     //primaryly for testing purposes
@@ -46,7 +46,7 @@ public class Weight_Conversion
      */
     public int get_Oz_value()
     {
-        return ozSingularvalue;
+        return ozSingularValue;
     }
 
     /**
